@@ -26,3 +26,7 @@ This project performs sentiment analysis on tweets using a BiLSTM deep learning 
 
 ## Output
 Sentiment: Positive
+=======
+# twitter-sentiment-analysis
+Twitter Sentiment Analysis using BiLSTM and Streamlit — A deep learning–based NLP project that classifies tweets as Positive, Neutral, or Negative using a trained BiLSTM model.
+>>>>>>> 792189261ba2cf98bcabbb83f5c867c273304bfa
